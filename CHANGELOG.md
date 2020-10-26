@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://www.github.com/googleapis/python-bigquery-reservation/compare/v0.3.0...v0.4.0) (2020-10-26)
+
+
+### Features
+
+* implement mtls env variables mentioned in aip.dev/auth/4114 ([#39](https://www.github.com/googleapis/python-bigquery-reservation/issues/39)) ([21bff87](https://www.github.com/googleapis/python-bigquery-reservation/commit/21bff87047519754a01983c9a4551cb534bcb88c))
+
 ## [0.3.0](https://www.github.com/googleapis/python-bigquery-reservation/compare/v0.2.0...v0.3.0) (2020-08-26)
 
 
